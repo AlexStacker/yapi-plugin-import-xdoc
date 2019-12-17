@@ -1,0 +1,11 @@
+{
+  "name": "yapi-plugin-import-xdoc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AlexStacker",
+  "license": "MIT",
+  "description": "导入历史项目的API文档到YApi中"
+}
